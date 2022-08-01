@@ -15,3 +15,20 @@
 .header__icons span{
     margin-left:25px;
 }
+
+.header__icons{
+    position:relative;
+}
+
+.screen-header__gear{
+    background-color: tomato;
+    width:5px;
+    height:5px;
+    border-radius: 2.5px;
+    color:tomato;
+    position:absolute;
+    display:flex-end;
+    right:-8px;
+    top:-8px;
+}
+
